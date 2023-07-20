@@ -1,7 +1,7 @@
 # Pig Game in Hebrew!
 Made as part of JavaScript course on Udemy by Jonas Schmedtmann.   
-By doing this project I practiced manipulating the DOM.
-[Go to english version](https://github.com/Rivki7/pig-game)
+By doing this project I practiced manipulating the DOM.   
+([Go to english version](https://github.com/Rivki7/pig-game))
 
 ## How to Play 🛝
 * The goal of the game is to score as many points as possible by rolling the dice and adding the numbers together.
